@@ -1,7 +1,7 @@
 {
 	"name": "aluraplay-request",
 	"version": "1.0.0",
-	"description": "<p align=\"center\"> <img src=\"https://imgur.com/J3hD21O.png\" alt=\"Javascript: criando requisições\"> </p>",
+	"description": "",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
 	"bugs": {
 		"url": "https://github.com/AndressaDaCosta/aluraplay-request/issues"
 	},
-	"homepage": "https://github.com/AndressaDaCosta/aluraplay-request#readme"
+	"homepage": "https://github.com/AndressaDaCosta/aluraplay-request#readme",
+	"dependencies": {
+		"json-server": "^0.17.0"
+	  }
 }
